@@ -1,0 +1,10 @@
+a = 46
+b = 20
+add = a + b
+print("addition=", add)
+sub = a - b
+print("subtraction=", sub)
+mul = a * b
+print("multiplicaation=", mul)
+div = a / b
+print("division=", div)
